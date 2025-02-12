@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @calib90
+- 👀 I’m interested in bartending and creating new versions of classic cocktails
+- 🌱 I’m currently learning to code
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i know noting of coding, have been working on this bartender app with chat gpt
